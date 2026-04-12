@@ -49,6 +49,10 @@ const blogPosts = [
     {
         file: 'llm-orchestration.md',
         slug: 'llm-orchestration'
+    },
+    {
+        file:'vi-luad-medaihack.md',
+        slug:'vi-luad-medaihack'
     }
 ];
 
