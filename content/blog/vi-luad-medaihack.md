@@ -1,7 +1,7 @@
 ---
 title: "How We Won 1st Place at MedAIHack: Detecting Vascular Invasion in Lung Cancer with ACMIL"
 date: April 12, 2026
-image: https://images.unsplash.com/photo-1579154204601-01588f351e67?w=800&h=400&fit=crop
+image: content/images/MedAIHack_win.jpeg
 tags: [Medical AI, Computational Pathology, Deep Learning, MIL, Hackathon, Lung Cancer]
 ---
 
