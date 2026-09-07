@@ -41,6 +41,18 @@ const projects = [
     {
         file: 'FoodGrid.md',
         slug: 'FoodGrid'
+    },
+    {
+        file: 'multisensor-spatial-reasoning.md',
+        slug: 'multisensor-spatial-reasoning'
+    },
+    {
+        file: 'sari-llm-steering.md',
+        slug: 'sari-llm-steering'
+    },
+    {
+        file: 'cinealign-ar.md',
+        slug: 'cinealign-ar'
     }
 ];
 
